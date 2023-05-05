@@ -9,12 +9,8 @@ Hello there! I'm a Computer Science student, my goal is to acquire as much knowl
 
 <h2>🌴 Connect with me:</h2>
 
-[![website](./imgs/youtube-light.svg)](https://www.youtube.com/@priyadarshiutkarsh#gh-light-mode-only)
-[![website](./imgs/youtube-dark.svg)](https://www.youtube.com/@priyadarshiutkarsh#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./imgs/linkedin-light.svg)](https://www.linkedin.com/in/utkarsh-priyadarshi/#gh-light-mode-only)
-[![website](./imgs/linkedin-dark.svg)](https://www.linkedin.com/in/utkarsh-priyadarshi/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./imgs/instagram-light.svg)](https://www.instagram.com/realutkarshpriyadarshi/#gh-light-mode-only)
-[![website](./imgs/instagram-dark.svg)](https://www.instagram.com/realutkarshpriyadarshi/#gh-dark-mode-only)
+<p align="left">
+<a href="https://twitter.com/realutkarshbit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="realutkarshbit" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/utkarsh-priyadarshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarsh-priyadarshi" height="30" width="40" /></a>
+</p>
 
