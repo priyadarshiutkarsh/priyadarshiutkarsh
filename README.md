@@ -1,8 +1,6 @@
 <h1 align="center">🌌 Utkarsh Priyadarshi</h1>
 <h3 align="center">Hello there! I'm a Computer Science student, my goal is to acquire as much knowledge as possible, in order to contribute towards the development of technology and create innovative projects/products that can benefit society as a whole.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyadarshiutkarsh" alt="priyadarshiutkarsh" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/realutkarshbit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="realutkarshbit" height="30" width="40" /></a>
