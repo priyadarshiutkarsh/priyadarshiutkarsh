@@ -1,6 +1,6 @@
 # 🌌 Utkarsh Priyadarshi
 
-**`Computer Science Student (Web Developer/Researcher/Wix Designer)`**
+**`Computer Science Student (Full Stack Developer/Student Researcher)`**
 
 Hello there! I'm a Computer Science student, my goal is to acquire as much knowledge as possible, in order to contribute towards the development of technology and create innovative projects/products that can benefit society as a whole.
 
