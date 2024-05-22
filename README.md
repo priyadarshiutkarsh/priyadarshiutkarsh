@@ -1,6 +1,6 @@
 # 🌌 Utkarsh Priyadarshi
 
-**`Computer Science Student (Student Researcher)`**
+**`Computer Science Student / Student Researcher`**
 
 Hello there! I'm a Computer Science student, interested in the field of interpretability, currently serving as an undergraduate researcher in the materials science department at UW Madison.
 
