@@ -2,7 +2,7 @@
 
 **`Computer Science Student / Student Researcher`**
 
-A computer science student, interested in the field of Mechanistic Interpretability. Ex IBM, Buildspace, Cerebras Systems
+A computer science student, interested in the field of Mechanistic Interpretability. Ex Stealth, IBM, Buildspace, Cerebras Systems
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)
